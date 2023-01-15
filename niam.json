@@ -1,0 +1,12 @@
+{
+    "entite": "A",
+    "x": 30,
+    "y": 30,
+    "relcnx": ["RelG","RelD"],
+
+    "relation": "RelG",
+    "uniciteg": 1,
+
+    "relation": "RelD",
+    "unicited": 1
+}
